@@ -1,6 +1,6 @@
 Lenovo ThinkCentre Tiny5 M720Q HackEFI
 
-Motherboard:lenovo M720Q
+Motherboard:lenovo M720Q<br>
 CPU: I5-8600T
 DISK:TOSHIBA THNSN5256GPU7
 RAM:Samsung DDR4 2666 8G * 2
